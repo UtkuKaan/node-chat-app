@@ -1,0 +1,17 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "Websocket.io example",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "8.4.0"
+  },
+  "author": "Utku Kaan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
